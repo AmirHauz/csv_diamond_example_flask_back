@@ -9,4 +9,5 @@
 # Run:
     create a virtual enviroment
     pip install -r .\requirements.txt
-    flask run
+    python3 app.py
+    
